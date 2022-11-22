@@ -6,7 +6,7 @@ import Navbar from './Navbar'
  const Header = () => {     
   return (
     <>
-     <h1>Alvaro, Mayk, ki3mi</h1>
+     <h1>Alvaro, Mayk, ki3mi, choripan</h1>
      <Head />
      <Search />
      <Navbar />
